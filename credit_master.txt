@@ -1,1 +1,369 @@
 sem | branch_code | branch_name | subject_code | credit | total_sem_credit | status | sample_reg_nos
+II | 101 | Civil Engineering | 100203 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22101106004,23101103002
+II | 101 | Civil Engineering | 100203P | 1.50 | 20.5 | DUPLICATE_SUPPORT | 22101106004,23101103002
+II | 101 | Civil Engineering | 100204 | 3.00 | 20.5 | DUPLICATE_SUPPORT | 22101106004,23101103002
+II | 101 | Civil Engineering | 100204P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22101106004,23101103002
+II | 101 | Civil Engineering | 100205 | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22101106004,23101103002
+II | 101 | Civil Engineering | 100205P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22101106004,23101103002
+II | 101 | Civil Engineering | 100206 | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22101106004,23101103002
+II | 101 | Civil Engineering | 100206P | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22101106004,23101103002
+II | 101 | Civil Engineering | 101202 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22101106004,23101103002
+II | 102 | Mechanical Engineering | 100203 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22102102001,23102102004
+II | 102 | Mechanical Engineering | 100203P | 1.50 | 20.5 | DUPLICATE_SUPPORT | 22102102001,23102102004
+II | 102 | Mechanical Engineering | 100204 | 3.00 | 20.5 | DUPLICATE_SUPPORT | 22102102001,23102102004
+II | 102 | Mechanical Engineering | 100204P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22102102001,23102102004
+II | 102 | Mechanical Engineering | 100205 | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22102102001,23102102004
+II | 102 | Mechanical Engineering | 100205P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22102102001,23102102004
+II | 102 | Mechanical Engineering | 100206 | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22102102001,23102102004
+II | 102 | Mechanical Engineering | 100206P | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22102102001,23102102004
+II | 102 | Mechanical Engineering | 102202 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22102102001,23102102004
+II | 103 | Electrical Engineering | 100201 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22103106006,23103106005
+II | 103 | Electrical Engineering | 100201P | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22103106006,23103106005
+II | 103 | Electrical Engineering | 100202 | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22103106006,23103106005
+II | 103 | Electrical Engineering | 100202P | 2.00 | 17.5 | DUPLICATE_SUPPORT | 22103106006,23103106005
+II | 103 | Electrical Engineering | 103201 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22103106006,23103106005
+II | 103 | Electrical Engineering | 103201P | 1.50 | 17.5 | DUPLICATE_SUPPORT | 22103106006,23103106005
+II | 103 | Electrical Engineering | 103202 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22103106006,23103106005
+II | 104 | Electronics & Communication Engineering | 100201 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22104102001,23104102001
+II | 104 | Electronics & Communication Engineering | 100201P | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22104102001,23104102001
+II | 104 | Electronics & Communication Engineering | 100202 | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22104102001,23104102001
+II | 104 | Electronics & Communication Engineering | 100202P | 2.00 | 17.5 | DUPLICATE_SUPPORT | 22104102001,23104102001
+II | 104 | Electronics & Communication Engineering | 103201 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22104102001,23104102001
+II | 104 | Electronics & Communication Engineering | 103201P | 1.50 | 17.5 | DUPLICATE_SUPPORT | 22104102001,23104102001
+II | 104 | Electronics & Communication Engineering | 103202 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22104102001,23104102001
+II | 105 | Computer Science & Engineering | 100201 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22105102005,23105102003
+II | 105 | Computer Science & Engineering | 100201P | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22105102005,23105102003
+II | 105 | Computer Science & Engineering | 100202 | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22105102005,23105102003
+II | 105 | Computer Science & Engineering | 100202P | 2.00 | 17.5 | DUPLICATE_SUPPORT | 22105102005,23105102003
+II | 105 | Computer Science & Engineering | 105201 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22105102005,23105102003
+II | 105 | Computer Science & Engineering | 105201P | 1.50 | 17.5 | DUPLICATE_SUPPORT | 22105102005,23105102003
+II | 105 | Computer Science & Engineering | 105202 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22105102005,23105102003
+II | 106 | Information Technology | 100203 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22106107016,23106107018
+II | 106 | Information Technology | 100203P | 1.50 | 20.5 | DUPLICATE_SUPPORT | 22106107016,23106107018
+II | 106 | Information Technology | 100204 | 3.00 | 20.5 | DUPLICATE_SUPPORT | 22106107016,23106107018
+II | 106 | Information Technology | 100204P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22106107016,23106107018
+II | 106 | Information Technology | 100205 | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22106107016,23106107018
+II | 106 | Information Technology | 100205P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22106107016,23106107018
+II | 106 | Information Technology | 100206 | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22106107016,23106107018
+II | 106 | Information Technology | 100206P | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22106107016,23106107018
+II | 106 | Information Technology | 105202 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22106107016,23106107018
+II | 107 | Leather Technology Engineering | 100203 | 4.00 | 20.5 | MATCH | 23107107005
+II | 107 | Leather Technology Engineering | 100203P | 1.50 | 20.5 | MATCH | 23107107005
+II | 107 | Leather Technology Engineering | 100204 | 3.00 | 20.5 | MATCH | 23107107005
+II | 107 | Leather Technology Engineering | 100204P | 2.00 | 20.5 | MATCH | 23107107005
+II | 107 | Leather Technology Engineering | 100205 | 1.00 | 20.5 | MATCH | 23107107005
+II | 107 | Leather Technology Engineering | 100205P | 2.00 | 20.5 | MATCH | 23107107005
+II | 107 | Leather Technology Engineering | 100206 | 2.00 | 20.5 | MATCH | 23107107005
+II | 107 | Leather Technology Engineering | 100206P | 1.00 | 20.5 | MATCH | 23107107005
+II | 107 | Leather Technology Engineering | 102202 | 4.00 | 20.5 | MATCH | 23107107005
+II | 110 | Electrical & Electronics Engineering | 100201 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22110103006,23110102002
+II | 110 | Electrical & Electronics Engineering | 100201P | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22110103006,23110102002
+II | 110 | Electrical & Electronics Engineering | 100202 | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22110103006,23110102002
+II | 110 | Electrical & Electronics Engineering | 100202P | 2.00 | 17.5 | DUPLICATE_SUPPORT | 22110103006,23110102002
+II | 110 | Electrical & Electronics Engineering | 103201 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22110103006,23110102002
+II | 110 | Electrical & Electronics Engineering | 103201P | 1.50 | 17.5 | DUPLICATE_SUPPORT | 22110103006,23110102002
+II | 110 | Electrical & Electronics Engineering | 103202 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22110103006,23110102002
+II | 112 | Fire Technology and Safety | 100203 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22112111002,23112111001
+II | 112 | Fire Technology and Safety | 100203P | 1.50 | 20.5 | DUPLICATE_SUPPORT | 22112111002,23112111001
+II | 112 | Fire Technology and Safety | 100204 | 3.00 | 20.5 | DUPLICATE_SUPPORT | 22112111002,23112111001
+II | 112 | Fire Technology and Safety | 100204P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22112111002,23112111001
+II | 112 | Fire Technology and Safety | 100205 | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22112111002,23112111001
+II | 112 | Fire Technology and Safety | 100205P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22112111002,23112111001
+II | 112 | Fire Technology and Safety | 100206 | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22112111002,23112111001
+II | 112 | Fire Technology and Safety | 100206P | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22112111002,23112111001
+II | 112 | Fire Technology and Safety | 102202 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22112111002,23112111001
+II | 113 | Mining Engineering | 100203 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22113124012,23113124006
+II | 113 | Mining Engineering | 100203P | 1.50 | 20.5 | DUPLICATE_SUPPORT | 22113124012,23113124006
+II | 113 | Mining Engineering | 100204 | 3.00 | 20.5 | DUPLICATE_SUPPORT | 22113124012,23113124006
+II | 113 | Mining Engineering | 100204P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22113124012,23113124006
+II | 113 | Mining Engineering | 100205 | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22113124012,23113124006
+II | 113 | Mining Engineering | 100205P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22113124012,23113124006
+II | 113 | Mining Engineering | 100206 | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22113124012,23113124006
+II | 113 | Mining Engineering | 100206P | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22113124012,23113124006
+II | 113 | Mining Engineering | 102202 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22113124012,23113124006
+II | 114 | Chemical Engineering | 100201 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22114125006,23114125004
+II | 114 | Chemical Engineering | 100201P | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22114125006,23114125004
+II | 114 | Chemical Engineering | 100202 | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22114125006,23114125004
+II | 114 | Chemical Engineering | 100202P | 2.00 | 17.5 | DUPLICATE_SUPPORT | 22114125006,23114125004
+II | 114 | Chemical Engineering | 103201 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22114125006,23114125004
+II | 114 | Chemical Engineering | 103201P | 1.50 | 17.5 | DUPLICATE_SUPPORT | 22114125006,23114125004
+II | 114 | Chemical Engineering | 103202 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22114125006,23114125004
+II | 115 | Food Processing and Preservation | 100203 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22115117003,23115117003
+II | 115 | Food Processing and Preservation | 100203P | 1.50 | 20.5 | DUPLICATE_SUPPORT | 22115117003,23115117003
+II | 115 | Food Processing and Preservation | 100204 | 3.00 | 20.5 | DUPLICATE_SUPPORT | 22115117003,23115117003
+II | 115 | Food Processing and Preservation | 100204P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22115117003,23115117003
+II | 115 | Food Processing and Preservation | 100205 | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22115117003,23115117003
+II | 115 | Food Processing and Preservation | 100205P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22115117003,23115117003
+II | 115 | Food Processing and Preservation | 100206 | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22115117003,23115117003
+II | 115 | Food Processing and Preservation | 100206P | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22115117003,23115117003
+II | 115 | Food Processing and Preservation | 101202 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22115117003,23115117003
+II | 116 | Aeronautical Engineering | 100203 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22116109002,23116109001
+II | 116 | Aeronautical Engineering | 100203P | 1.50 | 20.5 | DUPLICATE_SUPPORT | 22116109002,23116109001
+II | 116 | Aeronautical Engineering | 100204 | 3.00 | 20.5 | DUPLICATE_SUPPORT | 22116109002,23116109001
+II | 116 | Aeronautical Engineering | 100204P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22116109002,23116109001
+II | 116 | Aeronautical Engineering | 100205 | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22116109002,23116109001
+II | 116 | Aeronautical Engineering | 100205P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22116109002,23116109001
+II | 116 | Aeronautical Engineering | 100206 | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22116109002,23116109001
+II | 116 | Aeronautical Engineering | 100206P | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22116109002,23116109001
+II | 116 | Aeronautical Engineering | 102202 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22116109002,23116109001
+II | 117 | Biomedical and Robotic Engineering | 100201 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22117107003,23117107004
+II | 117 | Biomedical and Robotic Engineering | 100201P | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22117107003,23117107004
+II | 117 | Biomedical and Robotic Engineering | 100202 | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22117107003,23117107004
+II | 117 | Biomedical and Robotic Engineering | 100202P | 2.00 | 17.5 | DUPLICATE_SUPPORT | 22117107003,23117107004
+II | 117 | Biomedical and Robotic Engineering | 103201 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22117107003,23117107004
+II | 117 | Biomedical and Robotic Engineering | 103201P | 1.50 | 17.5 | DUPLICATE_SUPPORT | 22117107003,23117107004
+II | 117 | Biomedical and Robotic Engineering | 103202 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22117107003,23117107004
+II | 118 | 3-D Animation and Graphics | 100201 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22118128004,23118128001
+II | 118 | 3-D Animation and Graphics | 100201P | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22118128004,23118128001
+II | 118 | 3-D Animation and Graphics | 100202 | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22118128004,23118128001
+II | 118 | 3-D Animation and Graphics | 100202P | 2.00 | 17.5 | DUPLICATE_SUPPORT | 22118128004,23118128001
+II | 118 | 3-D Animation and Graphics | 105201 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22118128004,23118128001
+II | 118 | 3-D Animation and Graphics | 105201P | 1.50 | 17.5 | DUPLICATE_SUPPORT | 22118128004,23118128001
+II | 118 | 3-D Animation and Graphics | 105202 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22118128004,23118128001
+II | 119 | Civil Engineering With Computer Application | 100203 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22119113008,23119113001
+II | 119 | Civil Engineering With Computer Application | 100203P | 1.50 | 20.5 | DUPLICATE_SUPPORT | 22119113008,23119113001
+II | 119 | Civil Engineering With Computer Application | 100204 | 3.00 | 20.5 | DUPLICATE_SUPPORT | 22119113008,23119113001
+II | 119 | Civil Engineering With Computer Application | 100204P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22119113008,23119113001
+II | 119 | Civil Engineering With Computer Application | 100205 | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22119113008,23119113001
+II | 119 | Civil Engineering With Computer Application | 100205P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22119113008,23119113001
+II | 119 | Civil Engineering With Computer Application | 100206 | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22119113008,23119113001
+II | 119 | Civil Engineering With Computer Application | 100206P | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22119113008,23119113001
+II | 119 | Civil Engineering With Computer Application | 101202 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22119113008,23119113001
+II | 151 | Computer Science and Engineering (Artificial Intelligence) | 100201 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22151113025,23151113002
+II | 151 | Computer Science and Engineering (Artificial Intelligence) | 100201P | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22151113025,23151113002
+II | 151 | Computer Science and Engineering (Artificial Intelligence) | 100202 | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22151113025,23151113002
+II | 151 | Computer Science and Engineering (Artificial Intelligence) | 100202P | 2.00 | 17.5 | DUPLICATE_SUPPORT | 22151113025,23151113002
+II | 151 | Computer Science and Engineering (Artificial Intelligence) | 105201 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22151113025,23151113002
+II | 151 | Computer Science and Engineering (Artificial Intelligence) | 105201P | 1.50 | 17.5 | DUPLICATE_SUPPORT | 22151113025,23151113002
+II | 151 | Computer Science and Engineering (Artificial Intelligence) | 105202 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22151113025,23151113002
+II | 152 | Computer Science and Engineering (Cyber Security) | 100201 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22152146021,23152146004
+II | 152 | Computer Science and Engineering (Cyber Security) | 100201P | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22152146021,23152146004
+II | 152 | Computer Science and Engineering (Cyber Security) | 100202 | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22152146021,23152146004
+II | 152 | Computer Science and Engineering (Cyber Security) | 100202P | 2.00 | 17.5 | DUPLICATE_SUPPORT | 22152146021,23152146004
+II | 152 | Computer Science and Engineering (Cyber Security) | 105201 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22152146021,23152146004
+II | 152 | Computer Science and Engineering (Cyber Security) | 105201P | 1.50 | 17.5 | DUPLICATE_SUPPORT | 22152146021,23152146004
+II | 152 | Computer Science and Engineering (Cyber Security) | 105202 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22152146021,23152146004
+II | 153 | Computer Science and Engineering (Data Science) | 100201 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22153132004,23153132001
+II | 153 | Computer Science and Engineering (Data Science) | 100201P | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22153132004,23153132001
+II | 153 | Computer Science and Engineering (Data Science) | 100202 | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22153132004,23153132001
+II | 153 | Computer Science and Engineering (Data Science) | 100202P | 2.00 | 17.5 | DUPLICATE_SUPPORT | 22153132004,23153132001
+II | 153 | Computer Science and Engineering (Data Science) | 105201 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22153132004,23153132001
+II | 153 | Computer Science and Engineering (Data Science) | 105201P | 1.50 | 17.5 | DUPLICATE_SUPPORT | 22153132004,23153132001
+II | 153 | Computer Science and Engineering (Data Science) | 105202 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22153132004,23153132001
+II | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 100201 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22154149007,23154149001
+II | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 100201P | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22154149007,23154149001
+II | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 100202 | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22154149007,23154149001
+II | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 100202P | 2.00 | 17.5 | DUPLICATE_SUPPORT | 22154149007,23154149001
+II | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 105201 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22154149007,23154149001
+II | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 105201P | 1.50 | 17.5 | DUPLICATE_SUPPORT | 22154149007,23154149001
+II | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 105202 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22154149007,23154149001
+II | 155 | Computer Science and Engineering (Internet of Things) | 100201 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22155126026,23155126004
+II | 155 | Computer Science and Engineering (Internet of Things) | 100201P | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22155126026,23155126004
+II | 155 | Computer Science and Engineering (Internet of Things) | 100202 | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22155126026,23155126004
+II | 155 | Computer Science and Engineering (Internet of Things) | 100202P | 2.00 | 17.5 | DUPLICATE_SUPPORT | 22155126026,23155126004
+II | 155 | Computer Science and Engineering (Internet of Things) | 105201 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22155126026,23155126004
+II | 155 | Computer Science and Engineering (Internet of Things) | 105201P | 1.50 | 17.5 | DUPLICATE_SUPPORT | 22155126026,23155126004
+II | 155 | Computer Science and Engineering (Internet of Things) | 105202 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22155126026,23155126004
+II | 156 | Computer Science and Engineering (Networks) | 100201 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22156148013,23156148003
+II | 156 | Computer Science and Engineering (Networks) | 100201P | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22156148013,23156148003
+II | 156 | Computer Science and Engineering (Networks) | 100202 | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22156148013,23156148003
+II | 156 | Computer Science and Engineering (Networks) | 100202P | 2.00 | 17.5 | DUPLICATE_SUPPORT | 22156148013,23156148003
+II | 156 | Computer Science and Engineering (Networks) | 105201 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22156148013,23156148003
+II | 156 | Computer Science and Engineering (Networks) | 105201P | 1.50 | 17.5 | DUPLICATE_SUPPORT | 22156148013,23156148003
+II | 156 | Computer Science and Engineering (Networks) | 105202 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22156148013,23156148003
+II | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 100201 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22157127020,23157127001
+II | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 100201P | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22157127020,23157127001
+II | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 100202 | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22157127020,23157127001
+II | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 100202P | 2.00 | 17.5 | DUPLICATE_SUPPORT | 22157127020,23157127001
+II | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 105201 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22157127020,23157127001
+II | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 105201P | 1.50 | 17.5 | DUPLICATE_SUPPORT | 22157127020,23157127001
+II | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 105202 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22157127020,23157127001
+I | 101 | Civil Engineering | 100101 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22101106004,23101103002
+I | 101 | Civil Engineering | 100101P | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22101106004,23101103002
+I | 101 | Civil Engineering | 100102 | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22101106004,23101103002
+I | 101 | Civil Engineering | 100102P | 2.00 | 17.5 | DUPLICATE_SUPPORT | 22101106004,23101103002
+I | 101 | Civil Engineering | 101101 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22101106004,23101103002
+I | 101 | Civil Engineering | 101101P | 1.50 | 17.5 | DUPLICATE_SUPPORT | 22101106004,23101103002
+I | 101 | Civil Engineering | 101102 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22101106004,23101103002
+I | 102 | Mechanical Engineering | 100101 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22102102001,23102102004
+I | 102 | Mechanical Engineering | 100101P | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22102102001,23102102004
+I | 102 | Mechanical Engineering | 100102 | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22102102001,23102102004
+I | 102 | Mechanical Engineering | 100102P | 2.00 | 17.5 | DUPLICATE_SUPPORT | 22102102001,23102102004
+I | 102 | Mechanical Engineering | 102101 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22102102001,23102102004
+I | 102 | Mechanical Engineering | 102101P | 1.50 | 17.5 | DUPLICATE_SUPPORT | 22102102001,23102102004
+I | 102 | Mechanical Engineering | 102102 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22102102001,23102102004
+I | 103 | Electrical Engineering | 100103 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22103106006,23103106005
+I | 103 | Electrical Engineering | 100103P | 1.50 | 20.5 | DUPLICATE_SUPPORT | 22103106006,23103106005
+I | 103 | Electrical Engineering | 100104 | 3.00 | 20.5 | DUPLICATE_SUPPORT | 22103106006,23103106005
+I | 103 | Electrical Engineering | 100104P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22103106006,23103106005
+I | 103 | Electrical Engineering | 100105 | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22103106006,23103106005
+I | 103 | Electrical Engineering | 100105P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22103106006,23103106005
+I | 103 | Electrical Engineering | 100106 | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22103106006,23103106005
+I | 103 | Electrical Engineering | 100106P | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22103106006,23103106005
+I | 103 | Electrical Engineering | 103102 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22103106006,23103106005
+I | 104 | Electronics & Communication Engineering | 100103 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22104102001,23104102001
+I | 104 | Electronics & Communication Engineering | 100103P | 1.50 | 20.5 | DUPLICATE_SUPPORT | 22104102001,23104102001
+I | 104 | Electronics & Communication Engineering | 100104 | 3.00 | 20.5 | DUPLICATE_SUPPORT | 22104102001,23104102001
+I | 104 | Electronics & Communication Engineering | 100104P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22104102001,23104102001
+I | 104 | Electronics & Communication Engineering | 100105 | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22104102001,23104102001
+I | 104 | Electronics & Communication Engineering | 100105P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22104102001,23104102001
+I | 104 | Electronics & Communication Engineering | 100106 | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22104102001,23104102001
+I | 104 | Electronics & Communication Engineering | 100106P | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22104102001,23104102001
+I | 104 | Electronics & Communication Engineering | 103102 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22104102001,23104102001
+I | 105 | Computer Science & Engineering | 100103 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22105102005,23105102003
+I | 105 | Computer Science & Engineering | 100103P | 1.50 | 20.5 | DUPLICATE_SUPPORT | 22105102005,23105102003
+I | 105 | Computer Science & Engineering | 100104 | 3.00 | 20.5 | DUPLICATE_SUPPORT | 22105102005,23105102003
+I | 105 | Computer Science & Engineering | 100104P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22105102005,23105102003
+I | 105 | Computer Science & Engineering | 100105 | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22105102005,23105102003
+I | 105 | Computer Science & Engineering | 100105P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22105102005,23105102003
+I | 105 | Computer Science & Engineering | 100106 | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22105102005,23105102003
+I | 105 | Computer Science & Engineering | 100106P | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22105102005,23105102003
+I | 105 | Computer Science & Engineering | 105102 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22105102005,23105102003
+I | 106 | Information Technology | 100101 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22106107016,23106107018
+I | 106 | Information Technology | 100101P | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22106107016,23106107018
+I | 106 | Information Technology | 100102 | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22106107016,23106107018
+I | 106 | Information Technology | 100102P | 2.00 | 17.5 | DUPLICATE_SUPPORT | 22106107016,23106107018
+I | 106 | Information Technology | 105101 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22106107016,23106107018
+I | 106 | Information Technology | 105101P | 1.50 | 17.5 | DUPLICATE_SUPPORT | 22106107016,23106107018
+I | 106 | Information Technology | 105102 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22106107016,23106107018
+I | 107 | Leather Technology Engineering | 100101 | 4.00 | 17.5 | MATCH | 23107107005
+I | 107 | Leather Technology Engineering | 100101P | 1.00 | 17.5 | MATCH | 23107107005
+I | 107 | Leather Technology Engineering | 100102 | 1.00 | 17.5 | MATCH | 23107107005
+I | 107 | Leather Technology Engineering | 100102P | 2.00 | 17.5 | MATCH | 23107107005
+I | 107 | Leather Technology Engineering | 102101 | 4.00 | 17.5 | MATCH | 23107107005
+I | 107 | Leather Technology Engineering | 102101P | 1.50 | 17.5 | MATCH | 23107107005
+I | 107 | Leather Technology Engineering | 102102 | 4.00 | 17.5 | MATCH | 23107107005
+I | 110 | Electrical & Electronics Engineering | 100103 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22110103006,23110102002
+I | 110 | Electrical & Electronics Engineering | 100103P | 1.50 | 20.5 | DUPLICATE_SUPPORT | 22110103006,23110102002
+I | 110 | Electrical & Electronics Engineering | 100104 | 3.00 | 20.5 | DUPLICATE_SUPPORT | 22110103006,23110102002
+I | 110 | Electrical & Electronics Engineering | 100104P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22110103006,23110102002
+I | 110 | Electrical & Electronics Engineering | 100105 | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22110103006,23110102002
+I | 110 | Electrical & Electronics Engineering | 100105P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22110103006,23110102002
+I | 110 | Electrical & Electronics Engineering | 100106 | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22110103006,23110102002
+I | 110 | Electrical & Electronics Engineering | 100106P | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22110103006,23110102002
+I | 110 | Electrical & Electronics Engineering | 103102 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22110103006,23110102002
+I | 112 | Fire Technology and Safety | 100101 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22112111002,23112111001
+I | 112 | Fire Technology and Safety | 100101P | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22112111002,23112111001
+I | 112 | Fire Technology and Safety | 100102 | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22112111002,23112111001
+I | 112 | Fire Technology and Safety | 100102P | 2.00 | 17.5 | DUPLICATE_SUPPORT | 22112111002,23112111001
+I | 112 | Fire Technology and Safety | 102101 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22112111002,23112111001
+I | 112 | Fire Technology and Safety | 102101P | 1.50 | 17.5 | DUPLICATE_SUPPORT | 22112111002,23112111001
+I | 112 | Fire Technology and Safety | 102102 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22112111002,23112111001
+I | 113 | Mining Engineering | 100101 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22113124012,23113124006
+I | 113 | Mining Engineering | 100101P | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22113124012,23113124006
+I | 113 | Mining Engineering | 100102 | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22113124012,23113124006
+I | 113 | Mining Engineering | 100102P | 2.00 | 17.5 | DUPLICATE_SUPPORT | 22113124012,23113124006
+I | 113 | Mining Engineering | 102101 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22113124012,23113124006
+I | 113 | Mining Engineering | 102101P | 1.50 | 17.5 | DUPLICATE_SUPPORT | 22113124012,23113124006
+I | 113 | Mining Engineering | 102102 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22113124012,23113124006
+I | 114 | Chemical Engineering | 100103 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22114125006,23114125004
+I | 114 | Chemical Engineering | 100103P | 1.50 | 20.5 | DUPLICATE_SUPPORT | 22114125006,23114125004
+I | 114 | Chemical Engineering | 100104 | 3.00 | 20.5 | DUPLICATE_SUPPORT | 22114125006,23114125004
+I | 114 | Chemical Engineering | 100104P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22114125006,23114125004
+I | 114 | Chemical Engineering | 100105 | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22114125006,23114125004
+I | 114 | Chemical Engineering | 100105P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22114125006,23114125004
+I | 114 | Chemical Engineering | 100106 | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22114125006,23114125004
+I | 114 | Chemical Engineering | 100106P | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22114125006,23114125004
+I | 114 | Chemical Engineering | 103102 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22114125006,23114125004
+I | 115 | Food Processing and Preservation | 100101 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22115117003,23115117003
+I | 115 | Food Processing and Preservation | 100101P | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22115117003,23115117003
+I | 115 | Food Processing and Preservation | 100102 | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22115117003,23115117003
+I | 115 | Food Processing and Preservation | 100102P | 2.00 | 17.5 | DUPLICATE_SUPPORT | 22115117003,23115117003
+I | 115 | Food Processing and Preservation | 101101 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22115117003,23115117003
+I | 115 | Food Processing and Preservation | 101101P | 1.50 | 17.5 | DUPLICATE_SUPPORT | 22115117003,23115117003
+I | 115 | Food Processing and Preservation | 101102 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22115117003,23115117003
+I | 116 | Aeronautical Engineering | 100101 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22116109002,23116109001
+I | 116 | Aeronautical Engineering | 100101P | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22116109002,23116109001
+I | 116 | Aeronautical Engineering | 100102 | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22116109002,23116109001
+I | 116 | Aeronautical Engineering | 100102P | 2.00 | 17.5 | DUPLICATE_SUPPORT | 22116109002,23116109001
+I | 116 | Aeronautical Engineering | 102101 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22116109002,23116109001
+I | 116 | Aeronautical Engineering | 102101P | 1.50 | 17.5 | DUPLICATE_SUPPORT | 22116109002,23116109001
+I | 116 | Aeronautical Engineering | 102102 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22116109002,23116109001
+I | 117 | Biomedical and Robotic Engineering | 100103 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22117107003,23117107004
+I | 117 | Biomedical and Robotic Engineering | 100103P | 1.50 | 20.5 | DUPLICATE_SUPPORT | 22117107003,23117107004
+I | 117 | Biomedical and Robotic Engineering | 100104 | 3.00 | 20.5 | DUPLICATE_SUPPORT | 22117107003,23117107004
+I | 117 | Biomedical and Robotic Engineering | 100104P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22117107003,23117107004
+I | 117 | Biomedical and Robotic Engineering | 100105 | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22117107003,23117107004
+I | 117 | Biomedical and Robotic Engineering | 100105P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22117107003,23117107004
+I | 117 | Biomedical and Robotic Engineering | 100106 | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22117107003,23117107004
+I | 117 | Biomedical and Robotic Engineering | 100106P | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22117107003,23117107004
+I | 117 | Biomedical and Robotic Engineering | 103102 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22117107003,23117107004
+I | 118 | 3-D Animation and Graphics | 100103 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22118128004,23118128001
+I | 118 | 3-D Animation and Graphics | 100103P | 1.50 | 20.5 | DUPLICATE_SUPPORT | 22118128004,23118128001
+I | 118 | 3-D Animation and Graphics | 100104 | 3.00 | 20.5 | DUPLICATE_SUPPORT | 22118128004,23118128001
+I | 118 | 3-D Animation and Graphics | 100104P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22118128004,23118128001
+I | 118 | 3-D Animation and Graphics | 100105 | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22118128004,23118128001
+I | 118 | 3-D Animation and Graphics | 100105P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22118128004,23118128001
+I | 118 | 3-D Animation and Graphics | 100106 | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22118128004,23118128001
+I | 118 | 3-D Animation and Graphics | 100106P | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22118128004,23118128001
+I | 118 | 3-D Animation and Graphics | 105102 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22118128004,23118128001
+I | 119 | Civil Engineering With Computer Application | 100101 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22119113008,23119113001
+I | 119 | Civil Engineering With Computer Application | 100101P | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22119113008,23119113001
+I | 119 | Civil Engineering With Computer Application | 100102 | 1.00 | 17.5 | DUPLICATE_SUPPORT | 22119113008,23119113001
+I | 119 | Civil Engineering With Computer Application | 100102P | 2.00 | 17.5 | DUPLICATE_SUPPORT | 22119113008,23119113001
+I | 119 | Civil Engineering With Computer Application | 101101 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22119113008,23119113001
+I | 119 | Civil Engineering With Computer Application | 101101P | 1.50 | 17.5 | DUPLICATE_SUPPORT | 22119113008,23119113001
+I | 119 | Civil Engineering With Computer Application | 101102 | 4.00 | 17.5 | DUPLICATE_SUPPORT | 22119113008,23119113001
+I | 151 | Computer Science and Engineering (Artificial Intelligence) | 100103 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22151113025,23151113002
+I | 151 | Computer Science and Engineering (Artificial Intelligence) | 100103P | 1.50 | 20.5 | DUPLICATE_SUPPORT | 22151113025,23151113002
+I | 151 | Computer Science and Engineering (Artificial Intelligence) | 100104 | 3.00 | 20.5 | DUPLICATE_SUPPORT | 22151113025,23151113002
+I | 151 | Computer Science and Engineering (Artificial Intelligence) | 100104P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22151113025,23151113002
+I | 151 | Computer Science and Engineering (Artificial Intelligence) | 100105 | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22151113025,23151113002
+I | 151 | Computer Science and Engineering (Artificial Intelligence) | 100105P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22151113025,23151113002
+I | 151 | Computer Science and Engineering (Artificial Intelligence) | 100106 | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22151113025,23151113002
+I | 151 | Computer Science and Engineering (Artificial Intelligence) | 100106P | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22151113025,23151113002
+I | 151 | Computer Science and Engineering (Artificial Intelligence) | 105102 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22151113025,23151113002
+I | 152 | Computer Science and Engineering (Cyber Security) | 100103 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22152146021,23152146004
+I | 152 | Computer Science and Engineering (Cyber Security) | 100103P | 1.50 | 20.5 | DUPLICATE_SUPPORT | 22152146021,23152146004
+I | 152 | Computer Science and Engineering (Cyber Security) | 100104 | 3.00 | 20.5 | DUPLICATE_SUPPORT | 22152146021,23152146004
+I | 152 | Computer Science and Engineering (Cyber Security) | 100104P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22152146021,23152146004
+I | 152 | Computer Science and Engineering (Cyber Security) | 100105 | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22152146021,23152146004
+I | 152 | Computer Science and Engineering (Cyber Security) | 100105P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22152146021,23152146004
+I | 152 | Computer Science and Engineering (Cyber Security) | 100106 | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22152146021,23152146004
+I | 152 | Computer Science and Engineering (Cyber Security) | 100106P | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22152146021,23152146004
+I | 152 | Computer Science and Engineering (Cyber Security) | 105102 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22152146021,23152146004
+I | 153 | Computer Science and Engineering (Data Science) | 100103 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22153132004,23153132001
+I | 153 | Computer Science and Engineering (Data Science) | 100103P | 1.50 | 20.5 | DUPLICATE_SUPPORT | 22153132004,23153132001
+I | 153 | Computer Science and Engineering (Data Science) | 100104 | 3.00 | 20.5 | DUPLICATE_SUPPORT | 22153132004,23153132001
+I | 153 | Computer Science and Engineering (Data Science) | 100104P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22153132004,23153132001
+I | 153 | Computer Science and Engineering (Data Science) | 100105 | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22153132004,23153132001
+I | 153 | Computer Science and Engineering (Data Science) | 100105P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22153132004,23153132001
+I | 153 | Computer Science and Engineering (Data Science) | 100106 | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22153132004,23153132001
+I | 153 | Computer Science and Engineering (Data Science) | 100106P | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22153132004,23153132001
+I | 153 | Computer Science and Engineering (Data Science) | 105102 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22153132004,23153132001
+I | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 100103 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22154149007,23154149001
+I | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 100103P | 1.50 | 20.5 | DUPLICATE_SUPPORT | 22154149007,23154149001
+I | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 100104 | 3.00 | 20.5 | DUPLICATE_SUPPORT | 22154149007,23154149001
+I | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 100104P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22154149007,23154149001
+I | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 100105 | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22154149007,23154149001
+I | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 100105P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22154149007,23154149001
+I | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 100106 | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22154149007,23154149001
+I | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 100106P | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22154149007,23154149001
+I | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 105102 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22154149007,23154149001
+I | 155 | Computer Science and Engineering (Internet of Things) | 100103 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22155126026,23155126004
+I | 155 | Computer Science and Engineering (Internet of Things) | 100103P | 1.50 | 20.5 | DUPLICATE_SUPPORT | 22155126026,23155126004
+I | 155 | Computer Science and Engineering (Internet of Things) | 100104 | 3.00 | 20.5 | DUPLICATE_SUPPORT | 22155126026,23155126004
+I | 155 | Computer Science and Engineering (Internet of Things) | 100104P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22155126026,23155126004
+I | 155 | Computer Science and Engineering (Internet of Things) | 100105 | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22155126026,23155126004
+I | 155 | Computer Science and Engineering (Internet of Things) | 100105P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22155126026,23155126004
+I | 155 | Computer Science and Engineering (Internet of Things) | 100106 | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22155126026,23155126004
+I | 155 | Computer Science and Engineering (Internet of Things) | 100106P | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22155126026,23155126004
+I | 155 | Computer Science and Engineering (Internet of Things) | 105102 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22155126026,23155126004
+I | 156 | Computer Science and Engineering (Networks) | 100103 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22156148013,23156148003
+I | 156 | Computer Science and Engineering (Networks) | 100103P | 1.50 | 20.5 | DUPLICATE_SUPPORT | 22156148013,23156148003
+I | 156 | Computer Science and Engineering (Networks) | 100104 | 3.00 | 20.5 | DUPLICATE_SUPPORT | 22156148013,23156148003
+I | 156 | Computer Science and Engineering (Networks) | 100104P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22156148013,23156148003
+I | 156 | Computer Science and Engineering (Networks) | 100105 | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22156148013,23156148003
+I | 156 | Computer Science and Engineering (Networks) | 100105P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22156148013,23156148003
+I | 156 | Computer Science and Engineering (Networks) | 100106 | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22156148013,23156148003
+I | 156 | Computer Science and Engineering (Networks) | 100106P | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22156148013,23156148003
+I | 156 | Computer Science and Engineering (Networks) | 105102 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22156148013,23156148003
+I | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 100103 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22157127020,23157127001
+I | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 100103P | 1.50 | 20.5 | DUPLICATE_SUPPORT | 22157127020,23157127001
+I | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 100104 | 3.00 | 20.5 | DUPLICATE_SUPPORT | 22157127020,23157127001
+I | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 100104P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22157127020,23157127001
+I | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 100105 | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22157127020,23157127001
+I | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 100105P | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22157127020,23157127001
+I | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 100106 | 2.00 | 20.5 | DUPLICATE_SUPPORT | 22157127020,23157127001
+I | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 100106P | 1.00 | 20.5 | DUPLICATE_SUPPORT | 22157127020,23157127001
+I | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 105102 | 4.00 | 20.5 | DUPLICATE_SUPPORT | 22157127020,23157127001
