@@ -1,0 +1,47 @@
+# One valid real-student reg_no per branch code from uploaded 22 + 23 batch backlog lists
+# Format: reg_no | branch_code | branch_name | batch
+22101106004 | 101 | Civil Engineering | 22
+22102102001 | 102 | Mechanical Engineering | 22
+22103106006 | 103 | Electrical Engineering | 22
+22104102001 | 104 | Electronics & Communication Engineering | 22
+22105102005 | 105 | Computer Science & Engineering | 22
+22106107016 | 106 | Information Technology | 22
+22110103006 | 110 | Electrical & Electronics Engineering | 22
+22112111002 | 112 | Fire Technology and Safety | 22
+22113124012 | 113 | Mining Engineering | 22
+22114125006 | 114 | Chemical Engineering | 22
+22115117003 | 115 | Food Processing and Preservation | 22
+22116109002 | 116 | Aeronautical Engineering | 22
+22117107003 | 117 | Biomedical and Robotic Engineering | 22
+22118128004 | 118 | 3-D Animation and Graphics | 22
+22119113008 | 119 | Civil Engineering With Computer Application | 22
+22151113025 | 151 | Computer Science and Engineering (Artificial Intelligence) | 22
+22152146021 | 152 | Computer Science and Engineering (Cyber Security) | 22
+22153132004 | 153 | Computer Science and Engineering (Data Science) | 22
+22154149007 | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 22
+22155126026 | 155 | Computer Science and Engineering (Internet of Things) | 22
+22156148013 | 156 | Computer Science and Engineering (Networks) | 22
+22157127020 | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 22
+23101103002 | 101 | Civil Engineering | 23
+23102102004 | 102 | Mechanical Engineering | 23
+23103106005 | 103 | Electrical Engineering | 23
+23104102001 | 104 | Electronics & Communication Engineering | 23
+23105102003 | 105 | Computer Science & Engineering | 23
+23106107018 | 106 | Information Technology | 23
+23107107005 | 107 | Leather Technology Engineering | 23
+23110102002 | 110 | Electrical & Electronics Engineering | 23
+23112111001 | 112 | Fire Technology and Safety | 23
+23113124006 | 113 | Mining Engineering | 23
+23114125004 | 114 | Chemical Engineering | 23
+23115117003 | 115 | Food Processing and Preservation | 23
+23116109001 | 116 | Aeronautical Engineering | 23
+23117107004 | 117 | Biomedical and Robotic Engineering | 23
+23118128001 | 118 | 3-D Animation and Graphics | 23
+23119113001 | 119 | Civil Engineering With Computer Application | 23
+23151113002 | 151 | Computer Science and Engineering (Artificial Intelligence) | 23
+23152146004 | 152 | Computer Science and Engineering (Cyber Security) | 23
+23153132001 | 153 | Computer Science and Engineering (Data Science) | 23
+23154149001 | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 23
+23155126004 | 155 | Computer Science and Engineering (Internet of Things) | 23
+23156148003 | 156 | Computer Science and Engineering (Networks) | 23
+23157127001 | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 23
