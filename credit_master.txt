@@ -1,0 +1,1 @@
+sem | branch_code | branch_name | subject_code | credit | total_sem_credit | status | sample_reg_nos
