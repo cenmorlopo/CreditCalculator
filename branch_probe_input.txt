@@ -22,26 +22,26 @@
 22155126026 | 155 | Computer Science and Engineering (Internet of Things) | 22
 22156148013 | 156 | Computer Science and Engineering (Networks) | 22
 22157127020 | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 22
-23101103002 | 101 | Civil Engineering | 23
-23102102004 | 102 | Mechanical Engineering | 23
-23103106005 | 103 | Electrical Engineering | 23
-23104102001 | 104 | Electronics & Communication Engineering | 23
-23105102003 | 105 | Computer Science & Engineering | 23
-23106107018 | 106 | Information Technology | 23
-23107107005 | 107 | Leather Technology Engineering | 23
-23110102002 | 110 | Electrical & Electronics Engineering | 23
-23112111001 | 112 | Fire Technology and Safety | 23
-23113124006 | 113 | Mining Engineering | 23
-23114125004 | 114 | Chemical Engineering | 23
-23115117003 | 115 | Food Processing and Preservation | 23
-23116109001 | 116 | Aeronautical Engineering | 23
-23117107004 | 117 | Biomedical and Robotic Engineering | 23
-23118128001 | 118 | 3-D Animation and Graphics | 23
-23119113001 | 119 | Civil Engineering With Computer Application | 23
-23151113002 | 151 | Computer Science and Engineering (Artificial Intelligence) | 23
-23152146004 | 152 | Computer Science and Engineering (Cyber Security) | 23
-23153132001 | 153 | Computer Science and Engineering (Data Science) | 23
-23154149001 | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 23
-23155126004 | 155 | Computer Science and Engineering (Internet of Things) | 23
-23156148003 | 156 | Computer Science and Engineering (Networks) | 23
-23157127001 | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 23
+21101103002 | 101 | Civil Engineering | 21
+21102102004 | 102 | Mechanical Engineering | 21
+21103106005 | 103 | Electrical Engineering | 21
+21104102001 | 104 | Electronics & Communication Engineering | 21
+21105102003 | 105 | Computer Science & Engineering | 21
+21106107018 | 106 | Information Technology | 21
+21107107005 | 107 | Leather Technology Engineering | 21
+21110102002 | 110 | Electrical & Electronics Engineering | 21
+21112111001 | 112 | Fire Technology and Safety | 21
+21113124006 | 113 | Mining Engineering | 21
+21114125004 | 114 | Chemical Engineering | 21
+21115117003 | 115 | Food Processing and Preservation | 21
+21116109001 | 116 | Aeronautical Engineering | 21
+21117107004 | 117 | Biomedical and Robotic Engineering | 21
+21118128001 | 118 | 3-D Animation and Graphics | 21
+21119113001 | 119 | Civil Engineering With Computer Application | 21
+21151113002 | 151 | Computer Science and Engineering (Artificial Intelligence) | 21
+21152146004 | 152 | Computer Science and Engineering (Cyber Security) | 21
+21153132001 | 153 | Computer Science and Engineering (Data Science) | 21
+21154149001 | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | 21
+21155126004 | 155 | Computer Science and Engineering (Internet of Things) | 21
+21156148003 | 156 | Computer Science and Engineering (Networks) | 21
+21157127001 | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | 21
