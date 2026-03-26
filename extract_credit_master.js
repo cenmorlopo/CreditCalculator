@@ -25,20 +25,14 @@ const CONFIG = {
   maxRuntimeMs: 5 * 60 * 60 * 1000
 };
 
-// Credit extraction mappings
-// 22 batch => 1st sem result published in 2022, 2nd sem result published in 2023
-// 23 batch => 1st sem result published in 2023, 2nd sem result published in 2024
+// 4th semester only, for 21 and 22 batch
+// If your 21-batch page name on BEU differs, change only that one URL line.
 const URLS = {
+  "21": {
+    IV: "http://results.beup.ac.in/ResultsBTech4thSem2023_B2021Pub.aspx"
+  },
   "22": {
-    I: "http://results.beup.ac.in/ResultsBTech1stSem2022_B2022Pub.aspx",
-    II: "http://results.beup.ac.in/ResultsBTech2ndSem2023_B2022Pub.aspx"
-  },
-  "23": {
-    I: "http://results.beup.ac.in/ResultsBTech1stSem2023_B2023Pub.aspx",
-    II: "http://results.beup.ac.in/ResultsBTech2ndSem2024_B2023Pub.aspx"
-  },
-  "24": {
-    I: "http://results.beup.ac.in/ResultsBTech1stSem2024_B2024Pub.aspx"
+    IV: "http://results.beup.ac.in/ResultsBTech4thSem2024_B2022Pub.aspx"
   }
 };
 
@@ -128,12 +122,12 @@ function loadInputRows() {
     .filter(line => !line.startsWith("#"))
     .map(line => {
       const parts = line.split("|").map(s => s.trim());
-      if (parts.length < 3) return null;
+      if (parts.length < 4) return null;
 
       const reg_no = parts[0];
       const branch_code_input = parts[1];
       const branch_name_input = parts[2];
-      const batch_input = parts[3] || parseRegNo(reg_no).admission_year;
+      const batch_input = parts[3];
 
       return {
         reg_no,
@@ -150,10 +144,8 @@ function buildTasks(rows) {
   for (const row of rows) {
     const batch = normalize(row.batch_input);
     const supported = URLS[batch] || {};
-    for (const sem of ["I", "II"]) {
-      if (supported[sem]) {
-        tasks.push({ ...row, sem });
-      }
+    if (supported["IV"]) {
+      tasks.push({ ...row, sem: "IV" });
     }
   }
   return tasks;
@@ -173,12 +165,14 @@ async function fetchWithRetries(url) {
         validateStatus: status => status >= 200 && status < 400
       });
 
-      if (
-        response.status === 200 &&
-        typeof response.data === "string" &&
-        !response.data.includes("No Record Found !!!")
-      ) {
-        return { kind: "FOUND", html: response.data };
+      if (response.status === 200 && typeof response.data === "string") {
+        const html = response.data;
+
+        if (/No\s*Record\s*Found\s*!{0,3}/i.test(html)) {
+          return { kind: "NO_RECORD" };
+        }
+
+        return { kind: "FOUND", html };
       }
 
       return { kind: "NO_RECORD" };
@@ -208,40 +202,52 @@ function parseHtml(html, task) {
   $("#ContentPlaceHolder1_GridView1 tr").slice(1).each((_, el) => {
     const cells = $(el).find("td");
     if (cells.length >= 7) {
-      rows.push({
-        sem: task.sem,
-        reg_no: task.reg_no,
-        batch: reg.admission_year,
-        branch_code: task.branch_code_input,
-        branch_code_from_reg: reg.branch_code_from_reg,
-        branch_name: task.branch_name_input,
-        subject_type: "theory",
-        subject_code: normalize($(cells[0]).text()),
-        subject_name: normalize($(cells[1]).text()),
-        credit: normalize($(cells[6]).text()),
-        student_name: studentName,
-        course_name: courseName
-      });
+      const subjectCode = normalize($(cells[0]).text());
+      const subjectName = normalize($(cells[1]).text());
+      const credit = normalize($(cells[6]).text());
+
+      if (subjectCode && subjectName && credit) {
+        rows.push({
+          sem: task.sem,
+          reg_no: task.reg_no,
+          batch: reg.admission_year,
+          branch_code: task.branch_code_input,
+          branch_code_from_reg: reg.branch_code_from_reg,
+          branch_name: task.branch_name_input,
+          subject_type: "theory",
+          subject_code: subjectCode,
+          subject_name: subjectName,
+          credit: credit,
+          student_name: studentName,
+          course_name: courseName
+        });
+      }
     }
   });
 
   $("#ContentPlaceHolder1_GridView2 tr").slice(1).each((_, el) => {
     const cells = $(el).find("td");
     if (cells.length >= 7) {
-      rows.push({
-        sem: task.sem,
-        reg_no: task.reg_no,
-        batch: reg.admission_year,
-        branch_code: task.branch_code_input,
-        branch_code_from_reg: reg.branch_code_from_reg,
-        branch_name: task.branch_name_input,
-        subject_type: "practical",
-        subject_code: normalize($(cells[0]).text()),
-        subject_name: normalize($(cells[1]).text()),
-        credit: normalize($(cells[6]).text()),
-        student_name: studentName,
-        course_name: courseName
-      });
+      const subjectCode = normalize($(cells[0]).text());
+      const subjectName = normalize($(cells[1]).text());
+      const credit = normalize($(cells[6]).text());
+
+      if (subjectCode && subjectName && credit) {
+        rows.push({
+          sem: task.sem,
+          reg_no: task.reg_no,
+          batch: reg.admission_year,
+          branch_code: task.branch_code_input,
+          branch_code_from_reg: reg.branch_code_from_reg,
+          branch_name: task.branch_name_input,
+          subject_type: "practical",
+          subject_code: subjectCode,
+          subject_name: subjectName,
+          credit: credit,
+          student_name: studentName,
+          course_name: courseName
+        });
+      }
     }
   });
 
