@@ -1,0 +1,197 @@
+batch | sem | reg_no | branch_code | branch_name | subject_type | subject_code | subject_name | credit
+22 | IV | 22102102001 | 102 | Mechanical Engineering | theory | 102401 | Applied Thermodynamics | 4.00
+22 | IV | 22102102001 | 102 | Mechanical Engineering | theory | 102402 | Engineering Materials | 4.00
+22 | IV | 22102102001 | 102 | Mechanical Engineering | theory | 102403 | Fluid Mechanics | 3.00
+22 | IV | 22102102001 | 102 | Mechanical Engineering | theory | 102404 | Instrumentation & Control | 4.00
+22 | IV | 22102102001 | 102 | Mechanical Engineering | theory | 102405 | Strength of Materials | 3.00
+22 | IV | 22102102001 | 102 | Mechanical Engineering | practical | 100408P | MOOCs / SWAYAM / NPTEL Courses - 1 | 2.00
+22 | IV | 22102102001 | 102 | Mechanical Engineering | practical | 102403P | Fluid Mechanics | 1.50
+22 | IV | 22102102001 | 102 | Mechanical Engineering | practical | 102405P | Strength of Materials | 1.50
+22 | IV | 22103106006 | 103 | Electrical Engineering | theory | 100401 | Biology for Engineers | 3.00
+22 | IV | 22103106006 | 103 | Electrical Engineering | theory | 100403 | Digital Electronics | 3.00
+22 | IV | 22103106006 | 103 | Electrical Engineering | theory | 103401 | Electrical and Electronics Measurement | 3.00
+22 | IV | 22103106006 | 103 | Electrical Engineering | theory | 103402 | Electrical Machines – II | 3.00
+22 | IV | 22103106006 | 103 | Electrical Engineering | theory | 103403 | Mathematics – III (Probability and Statistics) | 4.00
+22 | IV | 22103106006 | 103 | Electrical Engineering | theory | 103404 | Signals and Systems | 3.00
+22 | IV | 22103106006 | 103 | Electrical Engineering | practical | 100403P | Digital Electronics | 1.00
+22 | IV | 22103106006 | 103 | Electrical Engineering | practical | 103401P | Electrical and Electronics Measurement | 1.00
+22 | IV | 22103106006 | 103 | Electrical Engineering | practical | 103402P | Electrical Machines – II | 1.00
+22 | IV | 22105102005 | 105 | Computer Science & Engineering | theory | 100403 | Digital Electronics | 3.00
+22 | IV | 22105102005 | 105 | Computer Science & Engineering | theory | 100404 | Discrete Mathematics | 4.00
+22 | IV | 22105102005 | 105 | Computer Science & Engineering | theory | 100407 | Human Resource Development and Organizational Behavior | 3.00
+22 | IV | 22105102005 | 105 | Computer Science & Engineering | theory | 105401 | Computer Organization & Architecture | 3.00
+22 | IV | 22105102005 | 105 | Computer Science & Engineering | theory | 105402 | Design & Analysis of Algorithms | 3.00
+22 | IV | 22105102005 | 105 | Computer Science & Engineering | theory | 105403 | Operating Systems | 3.00
+22 | IV | 22105102005 | 105 | Computer Science & Engineering | practical | 100403P | Digital Electronics | 2.00
+22 | IV | 22105102005 | 105 | Computer Science & Engineering | practical | 105401P | Computer Organization & Architecture | 2.00
+22 | IV | 22105102005 | 105 | Computer Science & Engineering | practical | 105402P | Design & Analysis of Algorithms | 2.00
+22 | IV | 22105102005 | 105 | Computer Science & Engineering | practical | 105403P | Operating Systems | 2.00
+22 | IV | 22106107016 | 106 | Information Technology | theory | 100406 | Formal Language & Automata Theory | 4.00
+22 | IV | 22106107016 | 106 | Information Technology | theory | 100407 | Human Resource Development and Organizational Behavior | 3.00
+22 | IV | 22106107016 | 106 | Information Technology | theory | 106401 | Computer Organization & Architecture | 3.00
+22 | IV | 22106107016 | 106 | Information Technology | theory | 106402 | Database management System | 3.00
+22 | IV | 22106107016 | 106 | Information Technology | theory | 106403 | Machine Learning | 3.00
+22 | IV | 22106107016 | 106 | Information Technology | practical | 106401P | Computer Organization & Architecture | 2.00
+22 | IV | 22106107016 | 106 | Information Technology | practical | 106402P | Database management System | 2.00
+22 | IV | 22106107016 | 106 | Information Technology | practical | 106403P | Machine Learning | 2.00
+22 | IV | 22110103006 | 110 | Electrical & Electronics Engineering | theory | 100401 | Biology for Engineers | 3.00
+22 | IV | 22110103006 | 110 | Electrical & Electronics Engineering | theory | 110401 | Analog Electronics | 3.00
+22 | IV | 22110103006 | 110 | Electrical & Electronics Engineering | theory | 110402 | Electrical Machines – II | 3.00
+22 | IV | 22110103006 | 110 | Electrical & Electronics Engineering | theory | 110404 | Mathematics–III (Probability and Statistics) | 4.00
+22 | IV | 22110103006 | 110 | Electrical & Electronics Engineering | theory | 110405 | Microprocessors | 3.00
+22 | IV | 22110103006 | 110 | Electrical & Electronics Engineering | theory | 110406 | Signals and Systems | 3.00
+22 | IV | 22110103006 | 110 | Electrical & Electronics Engineering | theory | 110408 | Organizational Behavior & Industrial Psychology | 2.00
+22 | IV | 22110103006 | 110 | Electrical & Electronics Engineering | practical | 110401P | Analog Electronics | 1.00
+22 | IV | 22110103006 | 110 | Electrical & Electronics Engineering | practical | 110402P | Electrical Machines – II | 1.00
+22 | IV | 22110103006 | 110 | Electrical & Electronics Engineering | practical | 110405P | Microprocessors | 1.00
+22 | IV | 22112111002 | 112 | Fire Technology and Safety | theory | 112401 | Heat and Mass Transfer | 4.00
+22 | IV | 22112111002 | 112 | Fire Technology and Safety | theory | 112402 | Planning and Design of Fire Protection System | 4.00
+22 | IV | 22112111002 | 112 | Fire Technology and Safety | theory | 112403 | Electrical Technology and Sefety | 3.00
+22 | IV | 22112111002 | 112 | Fire Technology and Safety | theory | 112404 | Smoke Management and Fire Alarm System | 3.00
+22 | IV | 22112111002 | 112 | Fire Technology and Safety | theory | 112405 | Engineering Fluid Mechanics and Pumping Machinery | 3.00
+22 | IV | 22112111002 | 112 | Fire Technology and Safety | practical | 112403P | Electrical Technology and Sefety Lab | 1.00
+22 | IV | 22112111002 | 112 | Fire Technology and Safety | practical | 112404P | Smoke Management and Fire Alarm System Lab | 1.00
+22 | IV | 22112111002 | 112 | Fire Technology and Safety | practical | 112405P | Engineering Fluid Mechanics and Pumping Machinery Lab | 1.00
+22 | IV | 22113124012 | 113 | Mining Engineering | theory | 113401 | Basic Surface Mining | 3.00
+22 | IV | 22113124012 | 113 | Mining Engineering | theory | 113402 | Underground Coal Mining | 4.00
+22 | IV | 22113124012 | 113 | Mining Engineering | theory | 113403 | Mine Ventilation Engineering | 4.00
+22 | IV | 22113124012 | 113 | Mining Engineering | theory | 113404 | Drilling and Blasting | 3.00
+22 | IV | 22113124012 | 113 | Mining Engineering | theory | 113405 | Mining Machinery | 3.00
+22 | IV | 22113124012 | 113 | Mining Engineering | practical | 113403P | Mine Ventilation Engineering Lab | 1.00
+22 | IV | 22113124012 | 113 | Mining Engineering | practical | 113404P | Drilling and Blasting Lab | 1.00
+22 | IV | 22113124012 | 113 | Mining Engineering | practical | 113405P | Mining Machinery Lab | 1.00
+22 | IV | 22114125006 | 114 | Chemical Engineering | theory | 114401 | Chemical Process Technology | 3.00
+22 | IV | 22114125006 | 114 | Chemical Engineering | theory | 114402 | Chemical Engineering Materials | 3.00
+22 | IV | 22114125006 | 114 | Chemical Engineering | theory | 114403 | Chemical Engineering Thermodynamics | 3.00
+22 | IV | 22114125006 | 114 | Chemical Engineering | theory | 114404 | Industrial Fluid Flow Operations | 3.00
+22 | IV | 22114125006 | 114 | Chemical Engineering | theory | 114405 | Process Equipment Design and Drawing | 3.00
+22 | IV | 22114125006 | 114 | Chemical Engineering | practical | 114401P | Chemical Process Technology Lab | 2.00
+22 | IV | 22114125006 | 114 | Chemical Engineering | practical | 114404P | Industrial Fluid Flow Operation Lab | 2.00
+22 | IV | 22114125006 | 114 | Chemical Engineering | practical | 114405P | Process Equipment Design and Drawing Lab | 2.00
+22 | IV | 22115117003 | 115 | Food Processing and Preservation | theory | 115401 | Food Engineering | 4.00
+22 | IV | 22115117003 | 115 | Food Processing and Preservation | theory | 115402 | Human Nutrition | 3.00
+22 | IV | 22115117003 | 115 | Food Processing and Preservation | theory | 115403 | Industrial Microbiology | 3.00
+22 | IV | 22115117003 | 115 | Food Processing and Preservation | theory | 115404 | Technology of Cereal, Pulses and Oil Seeds Products | 4.00
+22 | IV | 22115117003 | 115 | Food Processing and Preservation | practical | 115401P | Food Engineering Lab | 1.50
+22 | IV | 22115117003 | 115 | Food Processing and Preservation | practical | 115402P | Human Nutrition Lab | 1.50
+22 | IV | 22115117003 | 115 | Food Processing and Preservation | practical | 115403P | Industrial Microbiology Lab | 1.50
+22 | IV | 22115117003 | 115 | Food Processing and Preservation | practical | 115404P | Technology of Cereal, Pulses and Oil Seeds Products Lab | 1.50
+22 | IV | 22116109002 | 116 | Aeronautical Engineering | theory | 116401 | Fluids Mechanics | 4.00
+22 | IV | 22116109002 | 116 | Aeronautical Engineering | theory | 116402 | Propulsion-I | 4.00
+22 | IV | 22116109002 | 116 | Aeronautical Engineering | theory | 116403 | Aircraft Structures-I | 4.00
+22 | IV | 22116109002 | 116 | Aeronautical Engineering | theory | 116404 | Aircraft Hardware and Materials | 4.00
+22 | IV | 22116109002 | 116 | Aeronautical Engineering | practical | 116401P | Fluids Mechanics | 1.50
+22 | IV | 22116109002 | 116 | Aeronautical Engineering | practical | 116405P | Computer Aided Drafting and Modelling | 2.00
+22 | IV | 22118128004 | 118 | 3-D Animation and Graphics | theory | 118401 | Computer Graphics | 3.00
+22 | IV | 22118128004 | 118 | 3-D Animation and Graphics | theory | 118402 | 2D Animation and Motion Graphics | 3.00
+22 | IV | 22118128004 | 118 | 3-D Animation and Graphics | theory | 118403 | Design and Anlysis of Algorithm | 3.00
+22 | IV | 22118128004 | 118 | 3-D Animation and Graphics | theory | 118404 | Operating System | 3.00
+22 | IV | 22118128004 | 118 | 3-D Animation and Graphics | theory | 118405 | Human resource Development and Organizational Behaviour | 3.00
+22 | IV | 22118128004 | 118 | 3-D Animation and Graphics | practical | 118401P | Computer Graphics | 2.00
+22 | IV | 22118128004 | 118 | 3-D Animation and Graphics | practical | 118402P | 2D Animation and Motion Graphics | 2.00
+22 | IV | 22118128004 | 118 | 3-D Animation and Graphics | practical | 118404P | Operating System | 2.00
+22 | IV | 22119113008 | 119 | Civil Engineering With Computer Application | theory | 119401 | Mechanical Engineering | 3.00
+22 | IV | 22119113008 | 119 | Civil Engineering With Computer Application | theory | 119402 | Engineering Geology | 2.00
+22 | IV | 22119113008 | 119 | Civil Engineering With Computer Application | theory | 119403 | Disaster Preparedness & Planning | 2.00
+22 | IV | 22119113008 | 119 | Civil Engineering With Computer Application | theory | 119404 | Introduction to Fluid Mechanics | 3.00
+22 | IV | 22119113008 | 119 | Civil Engineering With Computer Application | theory | 119405 | Structural Analysis | 4.00
+22 | IV | 22119113008 | 119 | Civil Engineering With Computer Application | theory | 119406 | Materials, Testing & Evaluation | 2.00
+22 | IV | 22119113008 | 119 | Civil Engineering With Computer Application | practical | 119402P | Engineering Geology | 1.00
+22 | IV | 22119113008 | 119 | Civil Engineering With Computer Application | practical | 119404P | Introduction to Fluid Mechanics | 1.00
+22 | IV | 22119113008 | 119 | Civil Engineering With Computer Application | practical | 119406P | Materials Testing & Evaluation | 1.00
+22 | IV | 22119113008 | 119 | Civil Engineering With Computer Application | practical | 119407P | MOOCs / SWAYAM / NPTEL Courses - 1 | 2.00
+22 | IV | 22119113008 | 119 | Civil Engineering With Computer Application | practical | 119408P | Computer-aided Structural Analysis Laboratory | 1.00
+22 | IV | 22151113025 | 151 | Computer Science and Engineering (Artificial Intelligence) | theory | 100403 | Digital Electronics | 3.00
+22 | IV | 22151113025 | 151 | Computer Science and Engineering (Artificial Intelligence) | theory | 100404 | Discrete Mathematics | 4.00
+22 | IV | 22151113025 | 151 | Computer Science and Engineering (Artificial Intelligence) | theory | 100407 | Human Resource Development and Organizational Behavior | 3.00
+22 | IV | 22151113025 | 151 | Computer Science and Engineering (Artificial Intelligence) | theory | 105401 | Computer Organization & Architecture | 3.00
+22 | IV | 22151113025 | 151 | Computer Science and Engineering (Artificial Intelligence) | theory | 105402 | Design & Analysis of Algorithms | 3.00
+22 | IV | 22151113025 | 151 | Computer Science and Engineering (Artificial Intelligence) | theory | 105403 | Operating Systems | 3.00
+22 | IV | 22151113025 | 151 | Computer Science and Engineering (Artificial Intelligence) | practical | 100403P | Digital Electronics | 2.00
+22 | IV | 22151113025 | 151 | Computer Science and Engineering (Artificial Intelligence) | practical | 105401P | Computer Organization & Architecture | 2.00
+22 | IV | 22151113025 | 151 | Computer Science and Engineering (Artificial Intelligence) | practical | 105402P | Design & Analysis of Algorithms | 2.00
+22 | IV | 22151113025 | 151 | Computer Science and Engineering (Artificial Intelligence) | practical | 105403P | Operating Systems | 2.00
+22 | IV | 22152146021 | 152 | Computer Science and Engineering (Cyber Security) | theory | 100403 | Digital Electronics | 3.00
+22 | IV | 22152146021 | 152 | Computer Science and Engineering (Cyber Security) | theory | 100404 | Discrete Mathematics | 4.00
+22 | IV | 22152146021 | 152 | Computer Science and Engineering (Cyber Security) | theory | 100407 | Human Resource Development and Organizational Behavior | 3.00
+22 | IV | 22152146021 | 152 | Computer Science and Engineering (Cyber Security) | theory | 105401 | Computer Organization & Architecture | 3.00
+22 | IV | 22152146021 | 152 | Computer Science and Engineering (Cyber Security) | theory | 105402 | Design & Analysis of Algorithms | 3.00
+22 | IV | 22152146021 | 152 | Computer Science and Engineering (Cyber Security) | theory | 105403 | Operating Systems | 3.00
+22 | IV | 22152146021 | 152 | Computer Science and Engineering (Cyber Security) | practical | 100403P | Digital Electronics | 2.00
+22 | IV | 22152146021 | 152 | Computer Science and Engineering (Cyber Security) | practical | 105401P | Computer Organization & Architecture | 2.00
+22 | IV | 22152146021 | 152 | Computer Science and Engineering (Cyber Security) | practical | 105402P | Design & Analysis of Algorithms | 2.00
+22 | IV | 22152146021 | 152 | Computer Science and Engineering (Cyber Security) | practical | 105403P | Operating Systems | 2.00
+22 | IV | 22153132004 | 153 | Computer Science and Engineering (Data Science) | theory | 100403 | Digital Electronics | 3.00
+22 | IV | 22153132004 | 153 | Computer Science and Engineering (Data Science) | theory | 100404 | Discrete Mathematics | 4.00
+22 | IV | 22153132004 | 153 | Computer Science and Engineering (Data Science) | theory | 100407 | Human Resource Development and Organizational Behavior | 3.00
+22 | IV | 22153132004 | 153 | Computer Science and Engineering (Data Science) | theory | 105401 | Computer Organization & Architecture | 3.00
+22 | IV | 22153132004 | 153 | Computer Science and Engineering (Data Science) | theory | 105402 | Design & Analysis of Algorithms | 3.00
+22 | IV | 22153132004 | 153 | Computer Science and Engineering (Data Science) | theory | 105403 | Operating Systems | 3.00
+22 | IV | 22153132004 | 153 | Computer Science and Engineering (Data Science) | practical | 100403P | Digital Electronics | 2.00
+22 | IV | 22153132004 | 153 | Computer Science and Engineering (Data Science) | practical | 105401P | Computer Organization & Architecture | 2.00
+22 | IV | 22153132004 | 153 | Computer Science and Engineering (Data Science) | practical | 105402P | Design & Analysis of Algorithms | 2.00
+22 | IV | 22153132004 | 153 | Computer Science and Engineering (Data Science) | practical | 105403P | Operating Systems | 2.00
+22 | IV | 22154149007 | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | theory | 100403 | Digital Electronics | 3.00
+22 | IV | 22154149007 | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | theory | 100404 | Discrete Mathematics | 4.00
+22 | IV | 22154149007 | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | theory | 100407 | Human Resource Development and Organizational Behavior | 3.00
+22 | IV | 22154149007 | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | theory | 105401 | Computer Organization & Architecture | 3.00
+22 | IV | 22154149007 | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | theory | 105402 | Design & Analysis of Algorithms | 3.00
+22 | IV | 22154149007 | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | theory | 105403 | Operating Systems | 3.00
+22 | IV | 22154149007 | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | practical | 100403P | Digital Electronics | 2.00
+22 | IV | 22154149007 | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | practical | 105401P | Computer Organization & Architecture | 2.00
+22 | IV | 22154149007 | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | practical | 105402P | Design & Analysis of Algorithms | 2.00
+22 | IV | 22154149007 | 154 | Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology) | practical | 105403P | Operating Systems | 2.00
+22 | IV | 22156148013 | 156 | Computer Science and Engineering (Networks) | theory | 100403 | Digital Electronics | 3.00
+22 | IV | 22156148013 | 156 | Computer Science and Engineering (Networks) | theory | 100404 | Discrete Mathematics | 4.00
+22 | IV | 22156148013 | 156 | Computer Science and Engineering (Networks) | theory | 100407 | Human Resource Development and Organizational Behavior | 3.00
+22 | IV | 22156148013 | 156 | Computer Science and Engineering (Networks) | theory | 105401 | Computer Organization & Architecture | 3.00
+22 | IV | 22156148013 | 156 | Computer Science and Engineering (Networks) | theory | 105402 | Design & Analysis of Algorithms | 3.00
+22 | IV | 22156148013 | 156 | Computer Science and Engineering (Networks) | theory | 105403 | Operating Systems | 3.00
+22 | IV | 22156148013 | 156 | Computer Science and Engineering (Networks) | practical | 100403P | Digital Electronics | 2.00
+22 | IV | 22156148013 | 156 | Computer Science and Engineering (Networks) | practical | 105401P | Computer Organization & Architecture | 2.00
+22 | IV | 22156148013 | 156 | Computer Science and Engineering (Networks) | practical | 105402P | Design & Analysis of Algorithms | 2.00
+22 | IV | 22156148013 | 156 | Computer Science and Engineering (Networks) | practical | 105403P | Operating Systems | 2.00
+22 | IV | 22157127020 | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | theory | 100403 | Digital Electronics | 3.00
+22 | IV | 22157127020 | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | theory | 100404 | Discrete Mathematics | 4.00
+22 | IV | 22157127020 | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | theory | 100407 | Human Resource Development and Organizational Behavior | 3.00
+22 | IV | 22157127020 | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | theory | 105401 | Computer Organization & Architecture | 3.00
+22 | IV | 22157127020 | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | theory | 105402 | Design & Analysis of Algorithms | 3.00
+22 | IV | 22157127020 | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | theory | 105403 | Operating Systems | 3.00
+22 | IV | 22157127020 | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | practical | 100403P | Digital Electronics | 2.00
+22 | IV | 22157127020 | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | practical | 105401P | Computer Organization & Architecture | 2.00
+22 | IV | 22157127020 | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | practical | 105402P | Design & Analysis of Algorithms | 2.00
+22 | IV | 22157127020 | 157 | Computer Science and Engineering (Artificial Intelligence and Machine Learning) | practical | 105403P | Operating Systems | 2.00
+21 | IV | 21102102004 | 102 | Mechanical Engineering | theory | 102401 | Applied Thermodynamics | 4.00
+21 | IV | 21102102004 | 102 | Mechanical Engineering | theory | 102402 | Engineering Materials | 4.00
+21 | IV | 21102102004 | 102 | Mechanical Engineering | theory | 102403 | Fluid Mechanics | 3.00
+21 | IV | 21102102004 | 102 | Mechanical Engineering | theory | 102404 | Instrumentation & Control | 4.00
+21 | IV | 21102102004 | 102 | Mechanical Engineering | theory | 102405 | Strength of Materials | 3.00
+21 | IV | 21102102004 | 102 | Mechanical Engineering | practical | 100408P | MOOCs / SWAYAM / NPTEL Courses - 1 | 2.00
+21 | IV | 21102102004 | 102 | Mechanical Engineering | practical | 102403P | Fluid Mechanics | 1.50
+21 | IV | 21102102004 | 102 | Mechanical Engineering | practical | 102405P | Strength of Materials | 1.50
+21 | IV | 21104102001 | 104 | Electronics & Communication Engineering | theory | 104401 | Analog Circuits | 3.00
+21 | IV | 21104102001 | 104 | Electronics & Communication Engineering | theory | 104402 | Analog Communication | 3.00
+21 | IV | 21104102001 | 104 | Electronics & Communication Engineering | theory | 104403 | Digital Circuits | 4.00
+21 | IV | 21104102001 | 104 | Electronics & Communication Engineering | theory | 104404 | Electromagnetic Theory | 4.00
+21 | IV | 21104102001 | 104 | Electronics & Communication Engineering | theory | 104405 | Semiconductor Physics and Devices | 3.00
+21 | IV | 21104102001 | 104 | Electronics & Communication Engineering | practical | 100408P | MOOCs / SWAYAM / NPTEL Courses - 1 | 2.00
+21 | IV | 21104102001 | 104 | Electronics & Communication Engineering | practical | 104401P | Analog Circuits | 1.00
+21 | IV | 21104102001 | 104 | Electronics & Communication Engineering | practical | 104402P | Analog Communication | 1.00
+21 | IV | 21104102001 | 104 | Electronics & Communication Engineering | practical | 104403P | Digital Circuits | 1.00
+21 | IV | 21104102001 | 104 | Electronics & Communication Engineering | practical | 104405P | Semiconductor Physics and Devices | 1.00
+21 | IV | 21106107018 | 106 | Information Technology | theory | 100406 | Formal Language & Automata Theory | 4.00
+21 | IV | 21106107018 | 106 | Information Technology | theory | 100407 | Human Resource Development and Organizational Behavior | 3.00
+21 | IV | 21106107018 | 106 | Information Technology | theory | 106401 | Computer Organization & Architecture | 3.00
+21 | IV | 21106107018 | 106 | Information Technology | theory | 106402 | Database management System | 3.00
+21 | IV | 21106107018 | 106 | Information Technology | theory | 106403 | Machine Learning | 3.00
+21 | IV | 21106107018 | 106 | Information Technology | practical | 106401P | Computer Organization & Architecture | 2.00
+21 | IV | 21106107018 | 106 | Information Technology | practical | 106402P | Database management System | 2.00
+21 | IV | 21106107018 | 106 | Information Technology | practical | 106403P | Machine Learning | 2.00
+21 | IV | 21107107005 | 107 | Leather Technology Engineering | theory | 107401 | Analytical Chemistry of Leather | 3.00
+21 | IV | 21107107005 | 107 | Leather Technology Engineering | theory | 107402 | Biochemistry of protein | 3.00
+21 | IV | 21107107005 | 107 | Leather Technology Engineering | theory | 107403 | Chemical Engineering – I | 3.00
+21 | IV | 21107107005 | 107 | Leather Technology Engineering | theory | 107404 | Principles of Inorganic Tannage | 3.00
+21 | IV | 21107107005 | 107 | Leather Technology Engineering | theory | 107405 | Theory & Practices of preservation and pre tanning processes | 3.00
+21 | IV | 21107107005 | 107 | Leather Technology Engineering | practical | 100408P | MOOCs / SWAYAM / NPTEL Courses - 1 | 2.00
+21 | IV | 21107107005 | 107 | Leather Technology Engineering | practical | 107401P | Analytical Chemistry of Leather | 1.50
+21 | IV | 21107107005 | 107 | Leather Technology Engineering | practical | 107405P | Theory & Practices of preservation and pre tanning processes | 1.50
