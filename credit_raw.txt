@@ -1,0 +1,1 @@
+batch | sem | reg_no | branch_code | branch_name | subject_type | subject_code | subject_name | credit
