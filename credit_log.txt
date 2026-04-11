@@ -230,3 +230,7 @@
 [2026-04-11T08:02:03.592Z] Built 45 semester tasks
 [2026-04-11T08:02:03.592Z] Resuming from taskIndex=45
 [2026-04-11T08:02:03.594Z] COMPLETE all tasks finished
+[2026-04-11T14:05:53.701Z] Loaded 45 input rows
+[2026-04-11T14:05:53.703Z] Built 45 semester tasks
+[2026-04-11T14:05:53.704Z] Resuming from taskIndex=45
+[2026-04-11T14:05:53.705Z] COMPLETE all tasks finished
